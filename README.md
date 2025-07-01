@@ -28,22 +28,8 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&size_weight=1&count_weight=0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&size_weight=0.5&count_weight=0.5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&size_weight=0&count_weight=1)
-
-
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=42magarine&theme=solarized" />
-</div>
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=42magarine&theme=solarized" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=42magarine&theme=solarized" />
+    https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=8
 </div>
 
 ---
