@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=8)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=8" />
 </div>
 
 ---
