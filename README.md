@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## Welcome to my GitHub profile 👋
 
----
-
 ### About Me
 - Former **tax consultant** (Steuerberater)
 - Currently a student at 42 Heilbronn (coding school)
@@ -26,23 +24,12 @@ Here are some ideas to get you started:
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&size_weight=0.5&count_weight=0.5&langs_count=4&layout=donut&theme=solarized-light&hide=makefile,html" />
-</div>
-
----
-
 ### Languages and Tools
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,py,ts" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,unity,vscode" />
+</p>
+
+---
